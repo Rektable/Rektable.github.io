@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -70,17 +69,16 @@
   <body>
     <div class="wrap">
       <div class="card">
-        <h1>✅ Email verification processed</h1>
+        <h1>✅ Заявка на регистрацию подана</h1>
         <p>
-          If Supabase was able to verify your account, you can now sign in in the Telmos Game Launcher.
+          Перейдите по ссылке для подтверждения регистрации
         </p>
 
         <div class="row" id="params"></div>
 
         <a class="btn" href="/">Go to website</a>
         <p>
-          Note: Desktop apps cannot be reliably “opened” directly from an email link.
-          After verification, open the launcher and log in.
+          После перехода по ссылке откройте приложение и войдите в ваш аккаунт.
         </p>
       </div>
     </div>
